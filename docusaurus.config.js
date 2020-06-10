@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Representable.org User Guide',
   tagline: 'Getting started with Representable.org',
-  url: 'representable.netlify.com/',
+  url: 'representable.netlify.app/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'representable', // Usually your GitHub org/user name.
