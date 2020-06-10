@@ -8,7 +8,7 @@ module.exports = {
   projectName: 'guide', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Representable',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -83,13 +83,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/Representable/guide/edit/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/Representable/guide/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
